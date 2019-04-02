@@ -1,0 +1,7 @@
+apiVersion: application.example.com/v1alpha1
+kind: Meven
+metadata:
+  name: example-meven
+spec:
+  # Add fields here
+  size: 3
